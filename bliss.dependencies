@@ -1,0 +1,8 @@
+[
+    {
+        "remote": "TeamBliss-Devices",
+        "repository": "android_device_samsung_msm8226-common",
+        "target_path": "device/samsung/msm8226-common",
+        "revision": "lp5.1"
+    }
+]
